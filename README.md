@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 **Adithya Nayak — 251090700070**  
-**Shrinidhi Acharya — 251090700077**
+
 
 This folder contains one notebook for each phase, shared datasets, a fitted model, the local Flask application, evaluation results, and the report in Word and PDF formats.
 
