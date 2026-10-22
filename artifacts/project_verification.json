@@ -1,0 +1,41 @@
+{
+  "phase1": {
+    "executed_code_cells": 13,
+    "error_outputs": 0
+  },
+  "phase2": {
+    "executed_code_cells": 21,
+    "error_outputs": 0
+  },
+  "phase3": {
+    "executed_code_cells": 8,
+    "error_outputs": 0
+  },
+  "cleaned_movies": 4557,
+  "removed_duplicate_listings": 11,
+  "matched_movies": 304,
+  "matched_ratings": 8125,
+  "python_tests": {
+    "python_tests": 10,
+    "failures": 0,
+    "errors": 0,
+    "passed": true
+  },
+  "javascript_tests": {
+    "passed": true,
+    "sklearn_score_comparisons": 885,
+    "python_js_request_comparisons": 6,
+    "max_absolute_error": 8.881784197001252e-16,
+    "dom_browser_tested": false
+  },
+  "browser": {
+    "passed": true,
+    "checks": [
+      "default Popularity recommendations",
+      "Ridge profile 380 personalization",
+      "Comedy and maximum 120 minute filters",
+      "validation and test NDCG table",
+      "Python API runtime indicator"
+    ]
+  }
+}

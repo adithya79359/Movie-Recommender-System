@@ -1,0 +1,11 @@
+{
+  "split": "validation",
+  "target_users": 349,
+  "evaluated_users": 270,
+  "excluded_no_eligible_positive": 79,
+  "excluded_fewer_than_10_candidates": 0,
+  "reference_observed_movies": 284,
+  "target_ratings_outside_reference_catalogue": 11,
+  "target_positive_ratings_outside_reference_catalogue": 2,
+  "evaluation_seconds": 25.58
+}

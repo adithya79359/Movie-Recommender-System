@@ -1,0 +1,16 @@
+{
+  "mode": "local_flask",
+  "url": "http://127.0.0.1:5000",
+  "start_command": "python app.py",
+  "public_hosting": false,
+  "browser_verification": {
+    "passed": true,
+    "checks": [
+      "default Popularity recommendations",
+      "Ridge profile 380 personalization",
+      "Comedy and maximum 120 minute filters",
+      "validation and test NDCG table",
+      "Python API runtime indicator"
+    ]
+  }
+}

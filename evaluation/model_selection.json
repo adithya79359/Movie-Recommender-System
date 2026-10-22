@@ -1,0 +1,14 @@
+{
+  "selection_metric": "validation NDCG@10",
+  "tie_breaker": "validation Recall@10",
+  "selected_model": "Popularity",
+  "selected_supervised": "Ridge",
+  "seed": 42,
+  "k": 10,
+  "relevant_rating": 4.0,
+  "hybrid_weights": {
+    "Content": 0.6,
+    "User CF": 0.35,
+    "Popularity": 0.05
+  }
+}

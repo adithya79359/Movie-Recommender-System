@@ -1,0 +1,11 @@
+Observation,Value
+Historical Hotstar catalogue records,6874.0
+Movie records retained for analysis,4557.0
+MovieLens movie records,9742.0
+MovieLens rating records,100836.0
+MovieLens users,610.0
+Candidate title/year matches,304.0
+Matched movie ratings,8125.0
+Catalogue matching coverage (%),6.67
+Movies with empty descriptions,0.0
+MovieLens user/catalogue sparsity (%),98.3

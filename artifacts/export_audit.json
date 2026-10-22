@@ -1,0 +1,7 @@
+{
+  "model_sha256": "8224c01dd3f9d743fd41d3d361d286b9e744fddeb802abb80ae96ec41b70e5a2",
+  "ridge_reproduced_test_rmse": 0.8290644335133486,
+  "fit_ratings": 6726,
+  "test_ratings_excluded": 1399,
+  "candidate_movies": 295
+}

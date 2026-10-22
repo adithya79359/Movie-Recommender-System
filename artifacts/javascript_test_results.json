@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "sklearn_score_comparisons": 885,
+  "python_js_request_comparisons": 6,
+  "max_absolute_error": 8.881784197001252e-16,
+  "dom_browser_tested": false
+}
